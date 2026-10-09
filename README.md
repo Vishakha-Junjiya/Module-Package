@@ -1,8 +1,8 @@
-# 🛠️ Multi-Utility Toolkit Using Python
+# 🛠️ Moduler_&_Packager
 
 ## 📌 Project Overview
 
-The **Multi-Utility Toolkit** is a Python-based project developed using the concepts of **Modules and Packages**. It provides multiple useful operations through a single menu-driven application.
+The **Moduler_&_Packager** is a Python-based project developed using the concepts of **Modules and Packages**. It provides multiple useful operations through a single menu-driven application.
 
 The project is divided into separate modules to make the code organized, reusable, easy to understand, and maintainable. Each module is responsible for performing a specific set of operations, such as date and time operations, mathematical calculations, random data generation, UUID generation, and file operations.
 
@@ -119,7 +119,7 @@ project_7/
 │
 ├── Main.py
 ├── sample.txt
-├── modula_&_package.jpg
+├── module_&_package.PNG
 └── README.md
 ```
 
@@ -133,7 +133,7 @@ project_7/
 | `Module/Operation.py`      | Contains date and time, mathematical, random data, UUID, and module-attribute operations. |
 | `Module/file_operation.py` | Contains custom file-operation functionality.                                             |
 | `sample.txt`               | A sample text file for file-related tasks, if used by the implemented operations.         |
-| `modula_&_package.jpg`     | An image related to the project's modules and packages topic.                             |
+| `module_&_package.PNG`     | An image related to the project's modules and packages topic.                             |
 | `README.md`                | Contains project documentation and instructions.                                          |
 
 ---
@@ -364,7 +364,7 @@ Python Project — Modules and Packages
 
 ## 📌 Conclusion
 
-The **Multi-Utility Toolkit** demonstrates how Python modules and packages can be used to develop an organized and reusable application.
+The **Moduler_&_package** demonstrates how Python modules and packages can be used to develop an organized and reusable application.
 
 By combining date and time utilities, mathematical calculations, random data generation, UUID generation, file operations, and module exploration, the project provides practical experience with multiple Python features.
 
@@ -411,4 +411,4 @@ Make sure the GitHub remote and branch are configured correctly before running `
 
 ---
 
-**Thank you for checking out the Multi-Utility Toolkit!** 🐍
+**Thank you for checking out the Moduler_&_package!** 🐍
